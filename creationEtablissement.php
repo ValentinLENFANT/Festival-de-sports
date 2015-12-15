@@ -1,6 +1,6 @@
 <?php
 
-include("_debut.inc.php");
+include("_debut.inc.php"); //AJOUT DE CE COMMENTAIRE POUR TESTER GITLAB
 include("_gestionBase.inc.php"); 
 include("_controlesEtGestionErreurs.inc.php");
 
